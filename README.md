@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sıla
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 📫 You can reach me via email and linkedIn! sarii.silanur@gmail.com/ www.linkedin.com/in/silanur
 
 <!---
