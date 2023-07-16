@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sıla
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Firebase
 - 📫 You can reach me via email and linkedIn! sarii.silanur@gmail.com/ www.linkedin.com/in/silanur
 
 <!---
